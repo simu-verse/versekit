@@ -7,7 +7,7 @@ Simuverse-Versekit is a unitypackage that provides a set of tools/plugins to fac
 To use the Simuverse-Versekit, follow these steps:
 
 1. Download the unity-package file to your local machine.
-2. Create your new Unity project using Unity Editor version 2021.3.16f1 - Win64 platform mode only please for now
+2. Create your new Unity project using Unity Editor version 2021.3.16f1
 3. Install & Setup URP (Universal Render Pipeline), install OpenXR+XR Interaction Toolkit packages to ensure your graphics pipeline and required dependencies match that of Simuverse
 4. Inside the project, navigate to and import the Simuverse unity-package file you downloaded.
 
